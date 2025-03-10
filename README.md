@@ -6,6 +6,22 @@ This project analyzes customer churn in a telecom company using various visualiz
 ## Dataset
 The dataset consists of customer details, contract information, payment methods, tenure, monthly charges, and churn status. The primary objective is to understand patterns and predict customer churn effectively.
 
+## Python Libraries Used in This Project
+**Data Handling & Analysis**
+
+- pandas – For data manipulation and analysis.
+- numpy – For numerical computations.
+
+**Data Visualization**
+- matplotlib – For creating static visualizations.
+- seaborn – For enhanced statistical visualizations.
+
+**Machine Learning & Model Building**
+- scikit-learn (sklearn) – For building the Linear Regression model, evaluation, and splitting data.
+- LinearRegression – To build the regression model.
+- train_test_split – To split the dataset into training and testing sets.
+- accuracy_score, classification_report – To evaluate the model.
+
 ---
 
 ## Visualizations and Insights
@@ -33,7 +49,8 @@ The dataset consists of customer details, contract information, payment methods,
 - **Business Recommendation:** Improve service reliability for Fiber Optic customers or offer bundled services to increase retention.
 
 ### 4. Churn by Payment Method
-![Image](https://github.com/user-attachments/assets/04d760b5-47ef-43b7-aa18-a6be99fe7463)
+![Image](https://github.com/user-attachments/assets/f02832a1-b37b-4aa8-9682-da37e0922bda)
+
 **Description:** This analysis explores how different payment methods affect churn.
 
 - **Observation:** Customers using Electronic Check payment method exhibit the highest churn rate, whereas those using automatic bank payments or credit cards have lower churn rates.
