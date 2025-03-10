@@ -43,6 +43,7 @@ The dataset consists of customer details, contract information, payment methods,
 
 ### 3. Churn by Internet Service Type
 ![Image](https://github.com/user-attachments/assets/39b237b9-aa11-46e3-b724-c843bae9d283)
+
 **Description:** This visualization examines churn rates across different internet service types (Fiber Optic, DSL, No Internet Service).
 
 - **Observation:** Customers using Fiber Optic internet have a higher churn rate compared to DSL users.
@@ -58,6 +59,7 @@ The dataset consists of customer details, contract information, payment methods,
 
 ### 5. Monthly Charges vs. Churn
 ![Image](https://github.com/user-attachments/assets/eb503fe2-908f-4c2b-9401-42d636e2fe72)
+
 **Description:** This scatter plot visualizes the relationship between monthly charges and churn.
 
 - **Observation:** Higher monthly charges correlate with increased churn.
